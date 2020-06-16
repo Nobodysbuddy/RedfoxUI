@@ -9,4 +9,4 @@ In The Command Line Type This:
 
 > `npm start` 
 
-and there you go... You Have A Reactjs!
+and there you go... You Have A Reactjs Project!
